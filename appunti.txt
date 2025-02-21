@@ -1,0 +1,3 @@
+lw: load word
+sw: store word
+processi / thread
