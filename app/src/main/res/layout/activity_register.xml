@@ -79,6 +79,8 @@
             app:layout_constraintStart_toStartOf="parent"
             app:layout_constraintTop_toBottomOf="@+id/nome" />
 
+
+
         <CalendarView
             android:id="@+id/datanascita"
             android:layout_width="296dp"
